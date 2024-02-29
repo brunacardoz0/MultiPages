@@ -1,0 +1,30 @@
+.d1{
+    background-color: rgb(44, 44, 44);
+    text-align: center;
+    border-radius: 20px;
+    width: 400px;
+    height: 300px;
+    margin-top: 70px;
+    margin-left: 450px;
+    
+}
+.h1{
+    color: bisque;
+
+
+}
+body{
+    background-color: bisque;
+}
+button{
+    background-color: bisque;
+    margin-top: 80px;
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+
+}
+button:hover{
+    background-color: rgb(138, 109, 73);
+}
